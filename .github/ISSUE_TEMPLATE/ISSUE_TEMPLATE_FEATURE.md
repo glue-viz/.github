@@ -1,5 +1,5 @@
 ---
-name: 'New Issue: Feature'
+name: 'New Issue: Feature Request'
 about: Suggest an idea for this project
 title: ''
 labels: enhancement

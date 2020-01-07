@@ -26,6 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Details:**
 
 - Operating System: [e.g. MacOS 10.13.2]
+- Python version (``python --version``): [e.g. Python 3.6.7]
 - Glue version (``glue --version``): [e.g. 0.14.5]
 - How you installed glue: [e.g. conda or pip]
 
